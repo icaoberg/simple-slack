@@ -1,5 +1,5 @@
 # simple-slack
-A simple script to send direct messages to some users or post on a channel om my workspace.
+A simple script to send direct messages to some users or post on a channel on my workspace.
 
 ## Disclaimer
 :warning: This script is for personal use. I am just sharing it in case some people might find it useful.
