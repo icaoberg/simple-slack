@@ -1,6 +1,9 @@
 # simple-slack
 A simple script to send messages to my Slack workspace.
 
+## Disclaimer
+:warning: This script is for personal use. I am just sharing it in case some people might find it useful.
+
 # Dependencies
 * Python 3+
 * [tabulate](https://pypi.org/project/tabulate/)
