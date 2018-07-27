@@ -22,11 +22,8 @@ exec(open(file).read())
 if results.username != None and results.channel == None:
 	direct_message = True
 	message_channel = False
-elif results.username == None and results.channel != None:
-	direct_message = False
-	message_channel = True
 else:
-	direct_message = True
+	direct_message = False
 	message_channel = True
 
 if direct_message:
