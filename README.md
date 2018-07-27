@@ -6,3 +6,8 @@ A simple script to send messages to my Slack workspace.
 * [tabulate](https://pypi.org/project/tabulate/)
 * [PathLib](https://docs.python.org/3/library/pathlib.html)
 
+# Examples
+
+```
+./slack.py -u icaoberg -m "Time to :shower: and go to :bed:"
+```
