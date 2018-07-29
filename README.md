@@ -1,4 +1,7 @@
 # simple-slack
+
+[![asciicast](https://asciinema.org/a/3p8g4wt1mvsaCsFxJPCaF6EAQ.png)](https://asciinema.org/a/3p8g4wt1mvsaCsFxJPCaF6EAQ)
+
 A simple script to send direct messages to some users or post on a channel on my workspace.
 
 ## Disclaimer
